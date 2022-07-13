@@ -1,0 +1,13 @@
+.ul{
+   display: flex;
+}
+.ul li{
+    list-style: none;
+    margin-left: 5%;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.ul li:hover{
+    cursor: pointer;
+   
+}
